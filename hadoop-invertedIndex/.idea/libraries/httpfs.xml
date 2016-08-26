@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="httpfs">
+    <CLASSES>
+      <root url="file://$USER_HOME$/hujian-hadoop/share/hadoop/httpfs" />
+      <root url="file://$USER_HOME$/hujian-hadoop/share/hadoop/mapreduce" />
+      <root url="file://$USER_HOME$/hujian-hadoop/share/hadoop/yarn" />
+      <root url="file://$USER_HOME$/hujian-hadoop/share/hadoop/hdfs" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/hujian-hadoop/share/hadoop/hdfs/jdiff" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/hujian-hadoop/share/hadoop/hdfs" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/hujian-hadoop/share/hadoop/mapreduce" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/hujian-hadoop/share/hadoop/yarn" recursive="false" />
+  </library>
+</component>
